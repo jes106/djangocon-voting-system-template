@@ -72,4 +72,4 @@ Participants are expected to **extend** and **customize** the application during
 
 ## License
 
-MIT License. Free to use and modify during the workshop.
+GNU License. Free to use and modify during the workshop.

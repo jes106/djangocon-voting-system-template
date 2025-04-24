@@ -43,13 +43,19 @@ Participants are expected to **extend** and **customize** the application during
    pip install -r requirements.txt
    ```
 
-4. **Run migrations:**
+4. **Create a .env:**
+
+   ```bash
+   cp .env.template .env
+   ```
+
+5. **Run migrations:**
 
    ```bash
    python manage.py migrate
    ```
 
-5. **Start the development server:**
+6. **Start the development server:**
    ```bash
    python manage.py runserver
    ```

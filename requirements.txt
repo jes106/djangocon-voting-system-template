@@ -10,6 +10,7 @@ cron-descriptor==1.4.5
 Django==5.1.7
 django-timezone-field==7.1
 djangorestframework==3.15.2
+drf-spectacular==0.28.0
 kombu==5.5.3
 loguru==0.7.3
 prompt_toolkit==3.0.51
